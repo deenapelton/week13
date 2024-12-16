@@ -1,0 +1,24 @@
+{
+  "guestbook": [
+    {
+      "id": "1",
+      "guest": "Deena",
+      "comment": "Happy Friday!"
+    },
+    {
+      "id": 2,
+      "guest": "Deena",
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "guest": "Deena",
+      "comment": "It's Friday"
+    },
+    {
+      "id": "240b",
+      "guest": "Deena",
+      "comment": "Saving "
+    }
+  ]
+}
